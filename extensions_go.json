@@ -1,0 +1,9 @@
+{
+    // Recommended extensions for Go development
+    "recommendations": [
+        "ukehoban.go",
+        "robertohuertasm.vscode-icons",
+        "eamodio.gitlens",
+        "vthiery.prettify-selected-json"
+    ]
+}
