@@ -2,9 +2,8 @@
     // Recommended extensions for C++ development
     "recommendations": [
         "ms-vscode.cpptools",
-        "matthewferreira.cppcheck",
+        "xaver.clang-format",
         "robertohuertasm.vscode-icons",
-        "eamodio.gitlens",
         "vthiery.prettify-selected-json"
     ]
 }

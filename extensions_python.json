@@ -1,9 +1,8 @@
 {
-        // Recommended extensions for Python development
-        "recommendations": [
-            "ms-python.python",
-            "robertohuertasm.vscode-icons",
-            "eamodio.gitlens",
-            "vthiery.prettify-selected-json"
-        ]
+    // Recommended extensions for Python development
+    "recommendations": [
+        "ms-python.python",
+        "robertohuertasm.vscode-icons",
+        "vthiery.prettify-selected-json"
+    ]
 }
